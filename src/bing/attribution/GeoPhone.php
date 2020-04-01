@@ -1,6 +1,6 @@
 <?php
 
-namespace han8gui\attribution;
+namespace bing\attribution;
 
 class GeoPhone
 {

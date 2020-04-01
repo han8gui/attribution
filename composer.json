@@ -1,5 +1,5 @@
 {
-  "name": "han8gui/attribution",
+  "name": "bing/attribution",
   "type": "project",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "han8gui\\attribution\\": "src/han8gui/attribution"
+      "bing\\attribution\\": "src/bing/attribution"
     }
   }
 }

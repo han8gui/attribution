@@ -6,7 +6,7 @@
 
 使用：
 
-    use han8gui\attribution\GeoPhone;
+    use bing\attribution\GeoPhone;
 
     $res = GeoPhone::find("13512345678");
 
